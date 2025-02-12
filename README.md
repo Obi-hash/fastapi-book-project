@@ -43,7 +43,7 @@ fastapi-book-project/
 - Pydantic
 - pytest
 - uvicorn
-- loveday
+- roselyn
 
 ## Installation
 
