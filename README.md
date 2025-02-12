@@ -43,6 +43,7 @@ fastapi-book-project/
 - Pydantic
 - pytest
 - uvicorn
+- shade
 
 
 ## Installation
