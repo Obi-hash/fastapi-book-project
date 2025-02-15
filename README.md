@@ -43,7 +43,7 @@ fastapi-book-project/
 - Pydantic
 - pytest
 - uvicorn
-
+- lovely
 ## Installation
 
 1. Clone the repository:
