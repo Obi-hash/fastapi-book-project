@@ -20,7 +20,7 @@ jobs:
 
       - name: Deploy to EC2
         run: |
-          ssh -o StrictHostKeyChecking=no ubuntu@3.87.64.165 "
+          ssh -o StrictHostKeyChecking=no ubuntu@44.202.247.179 "
             cd /home/ubuntu/fastapi-book-project &&
             git pull origin main &&
             sudo docker build -t fastapi-app -f api/Dockerfile . --no-cache  &&
