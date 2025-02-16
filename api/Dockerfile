@@ -10,6 +10,9 @@ COPY requirements.txt .
 # Install dependencies
 RUN pip install --no-cache-dir -r requirements.txt
 
+# Install Nginx
+RUN apt-get update && apt-get install -y apt-utils nginx
+
 # Copy the application code
 COPY . .
 
