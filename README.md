@@ -43,7 +43,7 @@ fastapi-book-project/
 - Pydantic
 - pytest
 - uvicorn
-- lovely
+
 ## Installation
 
 1. Clone the repository:
@@ -146,5 +146,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For support, please open an issue in the GitHub repository.
 # fastapi-book-project
 # fastapi-book-project
+New changes
 New changes
 New changes
